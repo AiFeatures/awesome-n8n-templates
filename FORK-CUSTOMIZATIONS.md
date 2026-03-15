@@ -1,6 +1,6 @@
 # Fork Customizations
 
-> This repository is a fork of [unknown]().
+> This repository is a fork of [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates).
 > Managed under the [iAiFy Enterprise](https://github.com/enterprises/iAiFy) governance model.
 
 ## Purpose
@@ -11,7 +11,7 @@ Supercharge your workflow automation with this curated collection of n8n templat
 
 | Property | Value |
 |----------|-------|
-| Upstream | [unknown]() |
+| Upstream | [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) |
 | Language | N/A |
 | Fork org | AiFeatures |
 
