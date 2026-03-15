@@ -1,0 +1,37 @@
+# awesome-n8n-templates — Claude Code Context
+
+## Overview
+
+- **Repository**: AiFeatures/awesome-n8n-templates
+- **Enterprise**: iAiFy
+- **Language**: Unknown
+- **Description**: Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
+
+## Fork Notes
+
+This is a fork maintained under iAiFy enterprise.
+- Do NOT create PRs back to upstream
+- Local changes live on the main branch
+- Upstream sync managed by Ai-road-4-You/fork-sync
+
+## Quick Start
+
+```bash
+# Check README.md for build/test commands
+```
+
+## Conventions
+
+- Conventional commits: feat:, fix:, chore:, docs:
+- Kebab-case file names
+- Branch protection on main — PRs required
+- CODEOWNERS: @AiFeatures/ai-engineering
+
+## Shared Resources
+
+| Asset | Location |
+|---|---|
+| CI/CD workflows | Ai-road-4-You/enterprise-ci-cd@v1 |
+| Composite actions | Ai-road-4-You/github-actions@v1 |
+| Governance | Ai-road-4-You/governance |
+| Templates | Ai-road-4-You/repo-templates |
